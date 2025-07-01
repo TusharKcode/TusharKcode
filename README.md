@@ -19,9 +19,9 @@
 ---
 
 ### 📂 Featured Projects
--**DMRC Metro Ticket Machine Clone**: JavaFX-based metro ticket simulation app
--**To-Do List with Weather App**: Flutter app integrating weather data
--**Password Generator**: Python-based utility tool
+- **DMRC Metro Ticket Machine Clone**: JavaFX-based metro ticket simulation app
+- **To-Do List with Weather App**: Flutter app integrating weather data
+- **Password Generator**: Python-based utility tool
 
 ---
 
